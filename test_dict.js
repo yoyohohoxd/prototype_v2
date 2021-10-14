@@ -1,47 +1,44 @@
-const { argv } = require('process');
-const http = require("https");
-const fs = require("fs");
-const path = require("path/posix");
+import fetch from 'node-fetch';
+import { argv, exit } from 'process';
+import fs from 'fs';
 
-const app_id = "my_app_id"; // insert your APP Id
-const app_key = "my_app_key"; // insert your APP Key
-const wordId = process.argv[2];
-const fields = "";
-const strictMatch = "false";
+const apiData = {
+  url: 'https://dictionaryapi.com/api/v3/references/thesaurus/json/',
+  word: process.argv[2],
+  key: '?key=71bc53b3-250e-4d40-9e89-11f3712c4100',
+}
 
-argv.forEach((val, index) => {
-  console.log(`${index}: ${val}`);
-});
+const {url, word, key} = apiData;
+const apiUrl = `${url}${word}${key}`;
 
-const options = {
-  host: 'od-api.oxforddictionaries.com',
-  port: '443',
-  path: '/api/v2/entries/en-gb/' + wordId + '?fields=' + fields + '&strictMatch=' + strictMatch,
-  method: "GET",
-  headers: {
-    'app_id': '248622cf',
-    'app_key': 'fa7baa2f3b0c344af4af4c13a60299d5'
-  }
-};
+console.log(apiUrl);
 
-http.get(options, (resp) => {
-    let body = '';
-    resp.on('data', (d) => {
-        body += d;
-    });
-    resp.on('end', () => {
-        let parsed = JSON.stringify(body);
-        getText(parsed);
-        //console.log(parsed);
-    });
-});
+fetch(apiUrl)
+  .then( (data) => data.json())
+  .then( (word) => findAnts(word))
 
-function getText(data) {
-  const obj = JSON.parse(data)
-  const myJSON = JSON.stringify(obj, null, 4);
-  console.log(obj);
-  fs.writeFile('output.json', myJSON, function(err) {
-      if (err) throw err;
-      console.log('\n saved');
+const findAnts = (data) => {
+  let parsed = JSON.stringify(data, null, 4);
+  fs.writeFile('output.json', parsed, function(err) {
+    if (err) throw err;
+    console.log('\nSAVED');
   });
+
+  let randomWord = verifyWord(data);
+  if (randomWord > 0) {
+    console.log(data[0].meta.ants[0][randomWord]);
+    return data[0].meta.ants[0][randomWord];
+  }
+}
+
+function verifyWord(data) {
+  if (data[0].meta.ants.length > 0) {
+    console.log(data[0].meta.ants.length)
+    let numberOfWords = data[0].meta.ants[0].length;
+    let randomWord = Math.floor(Math.random() * numberOfWords)
+    return randomWord
+  } else {
+    console.log(data[0].meta.ants.length);
+    console.log("There are no ants for this word.");
+  }
 }
