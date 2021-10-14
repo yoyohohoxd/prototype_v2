@@ -11,8 +11,6 @@ const apiData = {
 const {url, word, key} = apiData;
 const apiUrl = `${url}${word}${key}`;
 
-console.log(apiUrl);
-
 fetch(apiUrl)
   .then( (data) => data.json())
   .then( (word) => findAnts(word))
@@ -24,21 +22,23 @@ const findAnts = (data) => {
     console.log('\nSAVED');
   });
 
-  let randomWord = verifyWord(data);
-  if (randomWord > 0) {
-    console.log(data[0].meta.ants[0][randomWord]);
+  const randomWord = verifyWord(data);
+  if (randomWord >= 1) {
+    console.log("Picked word number: " + randomWord + " out of " + data[0].meta.ants[0].length + " possible.");
+    console.log("The opposite is: " + data[0].meta.ants[0][randomWord]);
     return data[0].meta.ants[0][randomWord];
   }
 }
 
 function verifyWord(data) {
-  if (data[0].meta.ants.length > 1) {
-    console.log(data[0].meta.ants.length)
+  console.log("\n\nThe original word was: " + word + "\nAnd this is the length of the array for this word: " + data[0].meta.ants[0].length);
+  if (data[0].meta.ants[0].length >= 1) {
     let numberOfWords = data[0].meta.ants[0].length;
     let randomWord = Math.floor(Math.random() * numberOfWords)
+    console.log(randomWord);
     return randomWord
   } else {
-    console.log(data[0].meta.ants.length);
-    console.log("There are no ants for this word.");
+    console.log(data[0].meta.ants[0].length);
+    console.log("There are no antonyms for this word.");
   }
 }
