@@ -1,114 +1,155 @@
 [
     {
         "meta": {
-            "id": "idiot",
-            "uuid": "5a6112bc-703b-4d4e-a2da-c7ae46acf0dd",
+            "id": "sweet",
+            "uuid": "25fb76c4-c558-4c69-a942-b95192723766",
             "src": "coll_thes",
             "section": "alpha",
             "target": {
-                "tuuid": "a33ef77b-2823-44e8-9424-5d8d37631e95",
+                "tuuid": "07dd7536-55a1-4aed-9ee3-05c3bb415a33",
                 "tsrc": "collegiate"
             },
             "stems": [
-                "idiot",
-                "idiots"
+                "sweet",
+                "sweeter",
+                "sweetest",
+                "sweetly"
             ],
             "syns": [
                 [
-                    "airhead",
-                    "birdbrain",
-                    "blockhead",
-                    "bonehead",
-                    "bubblehead",
-                    "chowderhead",
-                    "chucklehead",
-                    "clodpoll",
-                    "clot",
-                    "cluck",
-                    "clunk",
-                    "cretin",
-                    "cuddy",
-                    "deadhead",
-                    "dim bulb",
-                    "dimwit",
-                    "dip",
-                    "dodo",
-                    "dolt",
-                    "donkey",
-                    "doofus",
-                    "dope",
-                    "dork",
-                    "dullard",
-                    "dumbbell",
-                    "dumbhead",
-                    "dum-dum",
-                    "dummkopf",
-                    "dummy",
-                    "dunce",
-                    "dunderhead",
-                    "fathead",
-                    "gander",
-                    "golem",
-                    "goof",
-                    "goon",
-                    "half-wit",
-                    "hammerhead",
-                    "hardhead",
-                    "ignoramus",
-                    "imbecile",
-                    "jackass",
-                    "know-nothing",
-                    "knucklehead",
-                    "lamebrain",
-                    "loggerhead",
-                    "loon",
-                    "lump",
-                    "lunkhead",
-                    "meathead",
-                    "mome",
-                    "moron",
-                    "mug",
-                    "mutt",
-                    "natural",
-                    "nimrod",
-                    "nincompoop",
-                    "ninny",
-                    "ninnyhammer",
-                    "nit",
-                    "nitwit",
-                    "noddy",
-                    "noodle",
-                    "numskull",
-                    "oaf",
-                    "pinhead",
-                    "prat",
-                    "ratbag",
-                    "saphead",
-                    "schlub",
-                    "schnook",
-                    "simpleton",
-                    "stock",
-                    "stupe",
-                    "stupid",
-                    "thickhead",
-                    "turkey",
-                    "woodenhead",
-                    "yahoo",
-                    "yo-yo"
+                    "beloved",
+                    "cherished",
+                    "darling",
+                    "dear",
+                    "fair-haired",
+                    "favored",
+                    "favorite",
+                    "fond",
+                    "loved",
+                    "pet",
+                    "precious",
+                    "special",
+                    "white-headed"
+                ],
+                [
+                    "ambrosial",
+                    "aromatic",
+                    "fragrant",
+                    "perfumed",
+                    "redolent",
+                    "savory",
+                    "scented"
+                ],
+                [
+                    "affable",
+                    "agreeable",
+                    "amiable",
+                    "genial",
+                    "good-natured",
+                    "good-tempered",
+                    "gracious",
+                    "mellow",
+                    "nice",
+                    "pleasant",
+                    "well-disposed"
+                ],
+                [
+                    "adorable",
+                    "darling",
+                    "dear",
+                    "disarming",
+                    "endearing",
+                    "lovable",
+                    "lovesome",
+                    "precious",
+                    "winning",
+                    "winsome"
+                ],
+                [
+                    "agreeable",
+                    "blessed",
+                    "congenial",
+                    "darling",
+                    "delectable",
+                    "delicious",
+                    "delightful",
+                    "delightsome",
+                    "dreamy",
+                    "dulcet",
+                    "enjoyable",
+                    "felicitous",
+                    "good",
+                    "grateful",
+                    "gratifying",
+                    "heavenly",
+                    "jolly",
+                    "luscious",
+                    "nice",
+                    "palatable",
+                    "pleasant",
+                    "pleasing",
+                    "pleasurable",
+                    "pretty",
+                    "satisfying",
+                    "savory",
+                    "tasty",
+                    "welcome"
                 ]
             ],
             "ants": [
                 [
-                    "brain",
-                    "genius"
+                    "unbeloved"
+                ],
+                [
+                    "fetid",
+                    "foul",
+                    "malodorous",
+                    "noisome",
+                    "putrid",
+                    "rancid",
+                    "rank",
+                    "reeking",
+                    "reeky",
+                    "skunky",
+                    "smelly",
+                    "stenchful",
+                    "stenchy",
+                    "stinking",
+                    "stinky",
+                    "strong"
+                ],
+                [
+                    "disagreeable",
+                    "ill-natured",
+                    "ill-tempered",
+                    "unamiable",
+                    "ungenial",
+                    "ungracious",
+                    "unpleasant"
+                ],
+                [
+                    "abhorrent",
+                    "abominable",
+                    "detestable",
+                    "hateful",
+                    "loathsome",
+                    "odious",
+                    "unlovable"
+                ],
+                [
+                    "disagreeable",
+                    "pleasureless",
+                    "unpalatable",
+                    "unpleasant",
+                    "unwelcome"
                 ]
             ],
             "offensive": false
         },
         "hwi": {
-            "hw": "idiot"
+            "hw": "sweet"
         },
-        "fl": "noun",
+        "fl": "adjective",
         "def": [
             {
                 "sseq": [
@@ -116,16 +157,17 @@
                         [
                             "sense",
                             {
+                                "sn": "1",
                                 "dt": [
                                     [
                                         "text",
-                                        "a stupid person "
+                                        "granted special treatment or attention "
                                     ],
                                     [
                                         "vis",
                                         [
                                             {
-                                                "t": "only an {it}idiot{/it} would invest in a company just because a casual acquaintance recommended it"
+                                                "t": "promised his dying mother that he would always take care of his {it}sweet{/it} sister"
                                             }
                                         ]
                                     ]
@@ -133,446 +175,265 @@
                                 "syn_list": [
                                     [
                                         {
-                                            "wd": "airhead"
+                                            "wd": "beloved"
                                         },
                                         {
-                                            "wd": "birdbrain"
+                                            "wd": "cherished"
                                         },
                                         {
-                                            "wd": "blockhead"
+                                            "wd": "darling"
                                         },
                                         {
-                                            "wd": "bonehead"
+                                            "wd": "dear"
                                         },
                                         {
-                                            "wd": "bubblehead"
+                                            "wd": "fair-haired"
                                         },
                                         {
-                                            "wd": "chowderhead"
+                                            "wd": "favored"
                                         },
                                         {
-                                            "wd": "chucklehead"
+                                            "wd": "favorite"
                                         },
                                         {
-                                            "wd": "clodpoll",
-                                            "wvrs": [
-                                                {
-                                                    "wvl": "or",
-                                                    "wva": "clodpole"
-                                                }
-                                            ]
+                                            "wd": "fond"
                                         },
                                         {
-                                            "wd": "clot",
-                                            "wsls": [
-                                                "British"
-                                            ]
+                                            "wd": "loved"
                                         },
                                         {
-                                            "wd": "cluck"
+                                            "wd": "pet"
                                         },
                                         {
-                                            "wd": "clunk"
+                                            "wd": "precious"
                                         },
                                         {
-                                            "wd": "cretin"
+                                            "wd": "special"
                                         },
                                         {
-                                            "wd": "cuddy",
-                                            "wvrs": [
-                                                {
-                                                    "wvl": "or",
-                                                    "wva": "cuddie"
-                                                }
-                                            ],
-                                            "wsls": [
-                                                "British dialect"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "deadhead"
-                                        },
-                                        {
-                                            "wd": "dim bulb",
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "dimwit"
-                                        },
-                                        {
-                                            "wd": "dip"
-                                        },
-                                        {
-                                            "wd": "dodo"
-                                        },
-                                        {
-                                            "wd": "dolt"
-                                        },
-                                        {
-                                            "wd": "donkey"
-                                        },
-                                        {
-                                            "wd": "doofus",
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "dope"
-                                        },
-                                        {
-                                            "wd": "dork",
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "dullard"
-                                        },
-                                        {
-                                            "wd": "dumbbell"
-                                        },
-                                        {
-                                            "wd": "dumbhead"
-                                        },
-                                        {
-                                            "wd": "dum-dum"
-                                        },
-                                        {
-                                            "wd": "dummkopf"
-                                        },
-                                        {
-                                            "wd": "dummy"
-                                        },
-                                        {
-                                            "wd": "dunce"
-                                        },
-                                        {
-                                            "wd": "dunderhead"
-                                        },
-                                        {
-                                            "wd": "fathead"
-                                        },
-                                        {
-                                            "wd": "gander"
-                                        },
-                                        {
-                                            "wd": "golem"
-                                        },
-                                        {
-                                            "wd": "goof"
-                                        },
-                                        {
-                                            "wd": "goon"
-                                        },
-                                        {
-                                            "wd": "half-wit"
-                                        },
-                                        {
-                                            "wd": "hammerhead"
-                                        },
-                                        {
-                                            "wd": "hardhead"
-                                        },
-                                        {
-                                            "wd": "ignoramus"
-                                        },
-                                        {
-                                            "wd": "imbecile"
-                                        },
-                                        {
-                                            "wd": "jackass"
-                                        },
-                                        {
-                                            "wd": "know-nothing"
-                                        },
-                                        {
-                                            "wd": "knucklehead"
-                                        },
-                                        {
-                                            "wd": "lamebrain"
-                                        },
-                                        {
-                                            "wd": "loggerhead",
-                                            "wsls": [
-                                                "chiefly dialect"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "loon"
-                                        },
-                                        {
-                                            "wd": "lump"
-                                        },
-                                        {
-                                            "wd": "lunkhead"
-                                        },
-                                        {
-                                            "wd": "meathead"
-                                        },
-                                        {
-                                            "wd": "mome",
-                                            "wsls": [
-                                                "archaic"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "moron"
-                                        },
-                                        {
-                                            "wd": "mug",
-                                            "wsls": [
-                                                "chiefly British"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "mutt"
-                                        },
-                                        {
-                                            "wd": "natural"
-                                        },
-                                        {
-                                            "wd": "nimrod",
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "nincompoop"
-                                        },
-                                        {
-                                            "wd": "ninny"
-                                        },
-                                        {
-                                            "wd": "ninnyhammer"
-                                        },
-                                        {
-                                            "wd": "nit",
-                                            "wsls": [
-                                                "chiefly British"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "nitwit"
-                                        },
-                                        {
-                                            "wd": "noddy"
-                                        },
-                                        {
-                                            "wd": "noodle"
-                                        },
-                                        {
-                                            "wd": "numskull",
-                                            "wvrs": [
-                                                {
-                                                    "wvl": "or",
-                                                    "wva": "numbskull"
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "wd": "oaf"
-                                        },
-                                        {
-                                            "wd": "pinhead"
-                                        },
-                                        {
-                                            "wd": "prat",
-                                            "wsls": [
-                                                "British"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "ratbag",
-                                            "wsls": [
-                                                "chiefly Australian"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "saphead"
-                                        },
-                                        {
-                                            "wd": "schlub",
-                                            "wvrs": [
-                                                {
-                                                    "wvl": "also",
-                                                    "wva": "shlub"
-                                                }
-                                            ],
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "schnook",
-                                            "wsls": [
-                                                "slang"
-                                            ]
-                                        },
-                                        {
-                                            "wd": "simpleton"
-                                        },
-                                        {
-                                            "wd": "stock"
-                                        },
-                                        {
-                                            "wd": "stupe"
-                                        },
-                                        {
-                                            "wd": "stupid"
-                                        },
-                                        {
-                                            "wd": "thickhead"
-                                        },
-                                        {
-                                            "wd": "turkey"
-                                        },
-                                        {
-                                            "wd": "woodenhead"
-                                        },
-                                        {
-                                            "wd": "yahoo"
-                                        },
-                                        {
-                                            "wd": "yo-yo"
+                                            "wd": "white-headed"
                                         }
                                     ]
                                 ],
                                 "rel_list": [
                                     [
                                         {
-                                            "wd": "booby"
+                                            "wd": "admired"
                                         },
                                         {
-                                            "wd": "buffoon"
+                                            "wd": "adored"
                                         },
                                         {
-                                            "wd": "fool"
+                                            "wd": "appreciated"
                                         },
                                         {
-                                            "wd": "goose"
+                                            "wd": "esteemed"
                                         },
                                         {
-                                            "wd": "loony"
+                                            "wd": "relished"
                                         },
                                         {
-                                            "wd": "lunatic"
-                                        },
-                                        {
-                                            "wd": "madman"
-                                        },
-                                        {
-                                            "wd": "nut"
-                                        },
-                                        {
-                                            "wd": "zany"
+                                            "wd": "revered"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "loser"
+                                            "wd": "prized"
+                                        },
+                                        {
+                                            "wd": "treasured"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "gawk"
-                                        }
-                                    ],
-                                    [
-                                        {
-                                            "wd": "featherbrain"
-                                        },
-                                        {
-                                            "wd": "scatterbrain"
-                                        }
-                                    ],
-                                    [
-                                        {
-                                            "wd": "beast"
-                                        },
-                                        {
-                                            "wd": "boor"
-                                        },
-                                        {
-                                            "wd": "cad"
-                                        },
-                                        {
-                                            "wd": "churl"
-                                        },
-                                        {
-                                            "wd": "clown"
-                                        },
-                                        {
-                                            "wd": "creep"
-                                        },
-                                        {
-                                            "wd": "cur"
-                                        },
-                                        {
-                                            "wd": "heel"
-                                        },
-                                        {
-                                            "wd": "jerk"
-                                        },
-                                        {
-                                            "wd": "skunk"
-                                        },
-                                        {
-                                            "wd": "snake"
-                                        },
-                                        {
-                                            "wd": "stinker"
-                                        },
-                                        {
-                                            "wd": "villain"
-                                        }
-                                    ]
-                                ],
-                                "phrase_list": [
-                                    [
-                                        {
-                                            "wd": "dumb cluck"
+                                            "wd": "preferred"
                                         }
                                     ]
                                 ],
                                 "near_list": [
                                     [
                                         {
-                                            "wd": "intellect"
+                                            "wd": "abhorred"
                                         },
                                         {
-                                            "wd": "intellectual"
+                                            "wd": "abominated"
                                         },
                                         {
-                                            "wd": "sage"
+                                            "wd": "despised"
                                         },
                                         {
-                                            "wd": "thinker"
+                                            "wd": "detested"
                                         },
                                         {
-                                            "wd": "whiz"
+                                            "wd": "disdained"
                                         },
                                         {
-                                            "wd": "wizard"
+                                            "wd": "disfavored"
+                                        },
+                                        {
+                                            "wd": "disliked"
+                                        },
+                                        {
+                                            "wd": "execrated"
+                                        },
+                                        {
+                                            "wd": "hated"
+                                        },
+                                        {
+                                            "wd": "loathed"
+                                        },
+                                        {
+                                            "wd": "unfavorite"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "polymath"
+                                            "wd": "abandoned"
                                         },
                                         {
-                                            "wd": "Renaissance man"
+                                            "wd": "forgotten"
+                                        },
+                                        {
+                                            "wd": "ignored"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "sharpie",
+                                            "wd": "alienated"
+                                        },
+                                        {
+                                            "wd": "estranged"
+                                        }
+                                    ]
+                                ],
+                                "ant_list": [
+                                    [
+                                        {
+                                            "wd": "unbeloved"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "having a pleasant smell "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "breathed in the {it}sweet{/it} air of the azalea garden"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "ambrosial"
+                                        },
+                                        {
+                                            "wd": "aromatic"
+                                        },
+                                        {
+                                            "wd": "fragrant"
+                                        },
+                                        {
+                                            "wd": "perfumed"
+                                        },
+                                        {
+                                            "wd": "redolent"
+                                        },
+                                        {
+                                            "wd": "savory",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "savoury"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "scented"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "flowery"
+                                        },
+                                        {
+                                            "wd": "fruity"
+                                        },
+                                        {
+                                            "wd": "pungent"
+                                        },
+                                        {
+                                            "wd": "spicy"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "odiferous"
+                                        },
+                                        {
+                                            "wd": "odored"
+                                        },
+                                        {
+                                            "wd": "odoriferous"
+                                        },
+                                        {
+                                            "wd": "odorous"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "clean"
+                                        },
+                                        {
+                                            "wd": "fresh"
+                                        },
+                                        {
+                                            "wd": "pure"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "odorless"
+                                        },
+                                        {
+                                            "wd": "unscented"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "fusty"
+                                        },
+                                        {
+                                            "wd": "musty"
+                                        },
+                                        {
+                                            "wd": "stale"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "gamy",
                                             "wvrs": [
                                                 {
                                                     "wvl": "or",
-                                                    "wva": "sharpy"
+                                                    "wva": "gamey"
                                                 }
                                             ]
                                         }
@@ -581,70 +442,73 @@
                                 "ant_list": [
                                     [
                                         {
-                                            "wd": "brain"
+                                            "wd": "fetid"
                                         },
                                         {
-                                            "wd": "genius"
+                                            "wd": "foul"
+                                        },
+                                        {
+                                            "wd": "malodorous"
+                                        },
+                                        {
+                                            "wd": "noisome"
+                                        },
+                                        {
+                                            "wd": "putrid"
+                                        },
+                                        {
+                                            "wd": "rancid"
+                                        },
+                                        {
+                                            "wd": "rank"
+                                        },
+                                        {
+                                            "wd": "reeking"
+                                        },
+                                        {
+                                            "wd": "reeky"
+                                        },
+                                        {
+                                            "wd": "skunky"
+                                        },
+                                        {
+                                            "wd": "smelly"
+                                        },
+                                        {
+                                            "wd": "stenchful"
+                                        },
+                                        {
+                                            "wd": "stenchy"
+                                        },
+                                        {
+                                            "wd": "stinking"
+                                        },
+                                        {
+                                            "wd": "stinky"
+                                        },
+                                        {
+                                            "wd": "strong"
                                         }
                                     ]
                                 ]
                             }
                         ]
-                    ]
-                ]
-            }
-        ],
-        "shortdef": [
-            "a stupid person"
-        ]
-    },
-    {
-        "meta": {
-            "id": "idiot box",
-            "uuid": "aa2f7de0-82f5-4fee-b25f-137f8905a11b",
-            "src": "coll_thes",
-            "section": "alpha",
-            "target": {
-                "tuuid": "ddf75a15-abca-40a9-9b71-d023860ccc40",
-                "tsrc": "collegiate"
-            },
-            "stems": [
-                "idiot box"
-            ],
-            "syns": [
-                [
-                    "boob tube",
-                    "box",
-                    "television",
-                    "telly",
-                    "tube",
-                    "TV"
-                ]
-            ],
-            "ants": [],
-            "offensive": false
-        },
-        "hwi": {
-            "hw": "idiot box"
-        },
-        "fl": "noun",
-        "def": [
-            {
-                "sseq": [
+                    ],
                     [
                         [
                             "sense",
                             {
+                                "sn": "3",
                                 "dt": [
                                     [
                                         "text",
-                                        "an electronic device with a screen and speakers that reproduces images and sound "
+                                        "having an easygoing and pleasing manner especially in social situations "
                                     ],
                                     [
                                         "vis",
                                         [
                                             {
-                                                "t": "she declared that she wouldn't have an {it}idiot box{/it} in her home"
+                                                "t": "a very {it}sweet{/it} man directed us to the lost and found"
                                             }
                                         ]
                                     ]
@@ -652,102 +516,324 @@
                                 "syn_list": [
                                     [
                                         {
-                                            "wd": "boob tube"
+                                            "wd": "affable"
                                         },
                                         {
-                                            "wd": "box"
+                                            "wd": "agreeable"
                                         },
                                         {
-                                            "wd": "television"
+                                            "wd": "amiable"
                                         },
                                         {
-                                            "wd": "telly",
-                                            "wsls": [
-                                                "chiefly British"
-                                            ]
+                                            "wd": "genial"
                                         },
                                         {
-                                            "wd": "tube"
+                                            "wd": "good-natured"
                                         },
                                         {
-                                            "wd": "TV"
+                                            "wd": "good-tempered"
+                                        },
+                                        {
+                                            "wd": "gracious"
+                                        },
+                                        {
+                                            "wd": "mellow"
+                                        },
+                                        {
+                                            "wd": "nice"
+                                        },
+                                        {
+                                            "wd": "pleasant"
+                                        },
+                                        {
+                                            "wd": "well-disposed"
                                         }
                                     ]
                                 ],
                                 "rel_list": [
                                     [
                                         {
-                                            "wd": "LCD"
+                                            "wd": "amicable"
                                         },
                                         {
-                                            "wd": "plasma"
+                                            "wd": "clever",
+                                            "wsls": [
+                                                "dialect"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "cordial"
+                                        },
+                                        {
+                                            "wd": "friendly"
+                                        },
+                                        {
+                                            "wd": "neighborly"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "home theater"
+                                            "wd": "benign"
                                         },
                                         {
-                                            "wd": "home video"
+                                            "wd": "gentle"
+                                        },
+                                        {
+                                            "wd": "kind"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "cheerful"
+                                        },
+                                        {
+                                            "wd": "cheery"
+                                        },
+                                        {
+                                            "wd": "glad",
+                                            "wsls": [
+                                                "archaic"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "sunny"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "companionable"
+                                        },
+                                        {
+                                            "wd": "conversable"
+                                        },
+                                        {
+                                            "wd": "sociable"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "civil"
+                                        },
+                                        {
+                                            "wd": "considerate"
+                                        },
+                                        {
+                                            "wd": "courteous"
+                                        },
+                                        {
+                                            "wd": "polite"
+                                        },
+                                        {
+                                            "wd": "thoughtful"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "accommodating"
+                                        },
+                                        {
+                                            "wd": "amenable"
+                                        },
+                                        {
+                                            "wd": "obliging"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "attractive"
+                                        },
+                                        {
+                                            "wd": "delightful"
+                                        },
+                                        {
+                                            "wd": "enjoyable"
+                                        },
+                                        {
+                                            "wd": "likable",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "or",
+                                                    "wva": "likeable"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "boorish"
+                                        },
+                                        {
+                                            "wd": "discourteous"
+                                        },
+                                        {
+                                            "wd": "ill-mannered"
+                                        },
+                                        {
+                                            "wd": "impolite"
+                                        },
+                                        {
+                                            "wd": "inconsiderate"
+                                        },
+                                        {
+                                            "wd": "rude"
+                                        },
+                                        {
+                                            "wd": "surly"
+                                        },
+                                        {
+                                            "wd": "uncivil"
+                                        },
+                                        {
+                                            "wd": "unkind"
+                                        },
+                                        {
+                                            "wd": "unmannerly"
+                                        },
+                                        {
+                                            "wd": "unsociable"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "bearish"
+                                        },
+                                        {
+                                            "wd": "bilious"
+                                        },
+                                        {
+                                            "wd": "cantankerous"
+                                        },
+                                        {
+                                            "wd": "choleric"
+                                        },
+                                        {
+                                            "wd": "churlish"
+                                        },
+                                        {
+                                            "wd": "crabby"
+                                        },
+                                        {
+                                            "wd": "cranky"
+                                        },
+                                        {
+                                            "wd": "dyspeptic"
+                                        },
+                                        {
+                                            "wd": "fussy"
+                                        },
+                                        {
+                                            "wd": "grouchy"
+                                        },
+                                        {
+                                            "wd": "grumpy"
+                                        },
+                                        {
+                                            "wd": "ill-humored"
+                                        },
+                                        {
+                                            "wd": "irascible"
+                                        },
+                                        {
+                                            "wd": "irritable"
+                                        },
+                                        {
+                                            "wd": "peevish"
+                                        },
+                                        {
+                                            "wd": "petulant"
+                                        },
+                                        {
+                                            "wd": "quick-tempered"
+                                        },
+                                        {
+                                            "wd": "snappish"
+                                        },
+                                        {
+                                            "wd": "testy"
+                                        },
+                                        {
+                                            "wd": "touchy"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "argumentative"
+                                        },
+                                        {
+                                            "wd": "contentious"
+                                        },
+                                        {
+                                            "wd": "contrary"
+                                        },
+                                        {
+                                            "wd": "ornery"
+                                        },
+                                        {
+                                            "wd": "querulous"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "unappealing"
+                                        },
+                                        {
+                                            "wd": "unattractive"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "sour"
+                                        },
+                                        {
+                                            "wd": "vinegary"
+                                        }
+                                    ]
+                                ],
+                                "ant_list": [
+                                    [
+                                        {
+                                            "wd": "disagreeable"
+                                        },
+                                        {
+                                            "wd": "ill-natured"
+                                        },
+                                        {
+                                            "wd": "ill-tempered"
+                                        },
+                                        {
+                                            "wd": "unamiable"
+                                        },
+                                        {
+                                            "wd": "ungenial"
+                                        },
+                                        {
+                                            "wd": "ungracious"
+                                        },
+                                        {
+                                            "wd": "unpleasant"
                                         }
                                     ]
                                 ]
                             }
                         ]
-                    ]
-                ]
-            }
-        ],
-        "shortdef": [
-            "an electronic device with a screen and speakers that reproduces images and sound"
-        ]
-    },
-    {
-        "meta": {
-            "id": "idiot boxes",
-            "uuid": "34d8d120-018e-4b45-b04c-f655480e9a76",
-            "src": "coll_thes",
-            "section": "alpha",
-            "stems": [
-                "idiot boxes"
-            ],
-            "syns": [
-                [
-                    "boob tubes",
-                    "boxes",
-                    "televisions",
-                    "tellies",
-                    "tubes",
-                    "TVs"
-                ]
-            ],
-            "ants": [],
-            "offensive": false
-        },
-        "hwi": {
-            "hw": "idiot boxes"
-        },
-        "fl": "noun",
-        "sls": [
-            "plural of {d_link|idiot box|idiot box}"
-        ],
-        "def": [
-            {
-                "sseq": [
+                    ],
                     [
                         [
                             "sense",
                             {
+                                "sn": "4",
                                 "dt": [
                                     [
                                         "text",
-                                        "an electronic device with a screen and speakers that reproduces images and sound "
+                                        "having qualities that tend to make one loved "
                                     ],
                                     [
                                         "vis",
                                         [
                                             {
-                                                "t": "she declared that she wouldn't have an {it}idiot box{/it} in her home"
+                                                "t": "a {it}sweet{/it} little kitten"
                                             }
                                         ]
                                     ]
@@ -755,49 +841,905 @@
                                 "syn_list": [
                                     [
                                         {
-                                            "wd": "boob tubes"
+                                            "wd": "adorable"
                                         },
                                         {
-                                            "wd": "boxes"
+                                            "wd": "darling"
                                         },
                                         {
-                                            "wd": "televisions"
+                                            "wd": "dear"
                                         },
                                         {
-                                            "wd": "tellies",
+                                            "wd": "disarming"
+                                        },
+                                        {
+                                            "wd": "endearing"
+                                        },
+                                        {
+                                            "wd": "lovable",
                                             "wvrs": [
                                                 {
                                                     "wvl": "also",
-                                                    "wva": "teles"
+                                                    "wva": "loveable"
                                                 }
-                                            ],
-                                            "wsls": [
-                                                "chiefly British"
                                             ]
                                         },
                                         {
-                                            "wd": "tubes"
+                                            "wd": "lovesome"
                                         },
                                         {
-                                            "wd": "TVs"
+                                            "wd": "precious"
+                                        },
+                                        {
+                                            "wd": "winning"
+                                        },
+                                        {
+                                            "wd": "winsome"
                                         }
                                     ]
                                 ],
                                 "rel_list": [
                                     [
                                         {
-                                            "wd": "LCDs"
+                                            "wd": "embraceable"
                                         },
                                         {
-                                            "wd": "plasmas"
+                                            "wd": "kissable"
                                         }
                                     ],
                                     [
                                         {
-                                            "wd": "home theaters"
+                                            "wd": "beloved"
                                         },
                                         {
-                                            "wd": "home videos"
+                                            "wd": "cherished"
+                                        },
+                                        {
+                                            "wd": "favored"
+                                        },
+                                        {
+                                            "wd": "favorite"
+                                        },
+                                        {
+                                            "wd": "loved"
+                                        },
+                                        {
+                                            "wd": "treasured"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "attractive"
+                                        },
+                                        {
+                                            "wd": "beautiful"
+                                        },
+                                        {
+                                            "wd": "desirable"
+                                        },
+                                        {
+                                            "wd": "lovely"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "alluring"
+                                        },
+                                        {
+                                            "wd": "appealing"
+                                        },
+                                        {
+                                            "wd": "captivating"
+                                        },
+                                        {
+                                            "wd": "charming"
+                                        },
+                                        {
+                                            "wd": "enchanting"
+                                        },
+                                        {
+                                            "wd": "engaging"
+                                        },
+                                        {
+                                            "wd": "entrancing"
+                                        },
+                                        {
+                                            "wd": "fascinating"
+                                        },
+                                        {
+                                            "wd": "fetching"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "admirable"
+                                        },
+                                        {
+                                            "wd": "likable",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "or",
+                                                    "wva": "likeable"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "reputable"
+                                        },
+                                        {
+                                            "wd": "respectable"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "affable"
+                                        },
+                                        {
+                                            "wd": "agreeable"
+                                        },
+                                        {
+                                            "wd": "cheerful"
+                                        },
+                                        {
+                                            "wd": "cordial"
+                                        },
+                                        {
+                                            "wd": "friendly"
+                                        },
+                                        {
+                                            "wd": "genial"
+                                        },
+                                        {
+                                            "wd": "good-natured"
+                                        },
+                                        {
+                                            "wd": "good-tempered"
+                                        },
+                                        {
+                                            "wd": "gracious"
+                                        },
+                                        {
+                                            "wd": "kind"
+                                        },
+                                        {
+                                            "wd": "nice"
+                                        },
+                                        {
+                                            "wd": "pleasant"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "delightful"
+                                        },
+                                        {
+                                            "wd": "pleasing"
+                                        },
+                                        {
+                                            "wd": "well-disposed"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "unloved"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "contemptible"
+                                        },
+                                        {
+                                            "wd": "disagreeable"
+                                        },
+                                        {
+                                            "wd": "disgusting"
+                                        },
+                                        {
+                                            "wd": "distasteful"
+                                        },
+                                        {
+                                            "wd": "heinous"
+                                        },
+                                        {
+                                            "wd": "horrible"
+                                        },
+                                        {
+                                            "wd": "lousy"
+                                        },
+                                        {
+                                            "wd": "nasty"
+                                        },
+                                        {
+                                            "wd": "offensive"
+                                        },
+                                        {
+                                            "wd": "unlikable"
+                                        },
+                                        {
+                                            "wd": "unpleasant"
+                                        },
+                                        {
+                                            "wd": "wretched"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "frightful"
+                                        },
+                                        {
+                                            "wd": "grotesque"
+                                        },
+                                        {
+                                            "wd": "hideous"
+                                        },
+                                        {
+                                            "wd": "ill-favored"
+                                        },
+                                        {
+                                            "wd": "monstrous"
+                                        },
+                                        {
+                                            "wd": "ogreish"
+                                        },
+                                        {
+                                            "wd": "repellent",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "repellant"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "repugnant"
+                                        },
+                                        {
+                                            "wd": "repulsive"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "ugly"
+                                        },
+                                        {
+                                            "wd": "unattractive"
+                                        },
+                                        {
+                                            "wd": "unsightly"
+                                        },
+                                        {
+                                            "wd": "vile"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "appalling"
+                                        },
+                                        {
+                                            "wd": "awful"
+                                        },
+                                        {
+                                            "wd": "dreadful"
+                                        },
+                                        {
+                                            "wd": "foul"
+                                        },
+                                        {
+                                            "wd": "horrendous"
+                                        },
+                                        {
+                                            "wd": "horrid"
+                                        },
+                                        {
+                                            "wd": "nauseating"
+                                        },
+                                        {
+                                            "wd": "noisome"
+                                        },
+                                        {
+                                            "wd": "obnoxious"
+                                        },
+                                        {
+                                            "wd": "obscene"
+                                        },
+                                        {
+                                            "wd": "revolting"
+                                        },
+                                        {
+                                            "wd": "scandalous"
+                                        },
+                                        {
+                                            "wd": "shocking"
+                                        },
+                                        {
+                                            "wd": "sickening"
+                                        }
+                                    ]
+                                ],
+                                "ant_list": [
+                                    [
+                                        {
+                                            "wd": "abhorrent"
+                                        },
+                                        {
+                                            "wd": "abominable"
+                                        },
+                                        {
+                                            "wd": "detestable"
+                                        },
+                                        {
+                                            "wd": "hateful"
+                                        },
+                                        {
+                                            "wd": "loathsome"
+                                        },
+                                        {
+                                            "wd": "odious"
+                                        },
+                                        {
+                                            "wd": "unlovable"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "5",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "giving pleasure or contentment to the mind or senses "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "the glowing reviews of his novel were the {it}sweetest{/it} things the writer had ever read"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "agreeable"
+                                        },
+                                        {
+                                            "wd": "blessed",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "blest"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "congenial"
+                                        },
+                                        {
+                                            "wd": "darling"
+                                        },
+                                        {
+                                            "wd": "delectable"
+                                        },
+                                        {
+                                            "wd": "delicious"
+                                        },
+                                        {
+                                            "wd": "delightful"
+                                        },
+                                        {
+                                            "wd": "delightsome"
+                                        },
+                                        {
+                                            "wd": "dreamy"
+                                        },
+                                        {
+                                            "wd": "dulcet"
+                                        },
+                                        {
+                                            "wd": "enjoyable"
+                                        },
+                                        {
+                                            "wd": "felicitous"
+                                        },
+                                        {
+                                            "wd": "good"
+                                        },
+                                        {
+                                            "wd": "grateful"
+                                        },
+                                        {
+                                            "wd": "gratifying"
+                                        },
+                                        {
+                                            "wd": "heavenly"
+                                        },
+                                        {
+                                            "wd": "jolly"
+                                        },
+                                        {
+                                            "wd": "luscious"
+                                        },
+                                        {
+                                            "wd": "nice"
+                                        },
+                                        {
+                                            "wd": "palatable"
+                                        },
+                                        {
+                                            "wd": "pleasant"
+                                        },
+                                        {
+                                            "wd": "pleasing"
+                                        },
+                                        {
+                                            "wd": "pleasurable"
+                                        },
+                                        {
+                                            "wd": "pretty"
+                                        },
+                                        {
+                                            "wd": "satisfying"
+                                        },
+                                        {
+                                            "wd": "savory",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "savoury"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "tasty"
+                                        },
+                                        {
+                                            "wd": "welcome"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "alluring"
+                                        },
+                                        {
+                                            "wd": "attractive"
+                                        },
+                                        {
+                                            "wd": "desirable"
+                                        },
+                                        {
+                                            "wd": "enviable"
+                                        },
+                                        {
+                                            "wd": "inviting"
+                                        },
+                                        {
+                                            "wd": "relishable"
+                                        },
+                                        {
+                                            "wd": "tempting"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "charming"
+                                        },
+                                        {
+                                            "wd": "enchanting"
+                                        },
+                                        {
+                                            "wd": "fascinating"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "calming"
+                                        },
+                                        {
+                                            "wd": "comforting"
+                                        },
+                                        {
+                                            "wd": "soothing"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "amusing"
+                                        },
+                                        {
+                                            "wd": "diverting"
+                                        },
+                                        {
+                                            "wd": "entertaining"
+                                        },
+                                        {
+                                            "wd": "recreative"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "affable"
+                                        },
+                                        {
+                                            "wd": "amiable"
+                                        },
+                                        {
+                                            "wd": "cheerful"
+                                        },
+                                        {
+                                            "wd": "cheery"
+                                        },
+                                        {
+                                            "wd": "comfortable"
+                                        },
+                                        {
+                                            "wd": "gemütlich"
+                                        },
+                                        {
+                                            "wd": "genial"
+                                        },
+                                        {
+                                            "wd": "goodly"
+                                        },
+                                        {
+                                            "wd": "good-natured"
+                                        },
+                                        {
+                                            "wd": "gracious"
+                                        },
+                                        {
+                                            "wd": "hospitable"
+                                        },
+                                        {
+                                            "wd": "kindly"
+                                        },
+                                        {
+                                            "wd": "personable"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "blissful"
+                                        },
+                                        {
+                                            "wd": "felicific"
+                                        },
+                                        {
+                                            "wd": "glad"
+                                        },
+                                        {
+                                            "wd": "happy"
+                                        },
+                                        {
+                                            "wd": "joyous"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "elating"
+                                        },
+                                        {
+                                            "wd": "exhilarating"
+                                        },
+                                        {
+                                            "wd": "intoxicating"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "ecstatic"
+                                        },
+                                        {
+                                            "wd": "euphoric"
+                                        },
+                                        {
+                                            "wd": "nirvanic"
+                                        },
+                                        {
+                                            "wd": "rapturous"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "abominable"
+                                        },
+                                        {
+                                            "wd": "ghastly"
+                                        },
+                                        {
+                                            "wd": "god-awful"
+                                        },
+                                        {
+                                            "wd": "hellish"
+                                        },
+                                        {
+                                            "wd": "horrid"
+                                        },
+                                        {
+                                            "wd": "miserable"
+                                        },
+                                        {
+                                            "wd": "wretched"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "bilious"
+                                        },
+                                        {
+                                            "wd": "disgusting"
+                                        },
+                                        {
+                                            "wd": "distasteful"
+                                        },
+                                        {
+                                            "wd": "obnoxious"
+                                        },
+                                        {
+                                            "wd": "offensive"
+                                        },
+                                        {
+                                            "wd": "repellent",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "repellant"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "repugnant"
+                                        },
+                                        {
+                                            "wd": "repulsive"
+                                        },
+                                        {
+                                            "wd": "revulsive"
+                                        },
+                                        {
+                                            "wd": "unsavory"
+                                        },
+                                        {
+                                            "wd": "vile"
+                                        },
+                                        {
+                                            "wd": "yucky",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "yukky"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "abhorrent"
+                                        },
+                                        {
+                                            "wd": "detestable"
+                                        },
+                                        {
+                                            "wd": "hateful"
+                                        },
+                                        {
+                                            "wd": "odious"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "boring"
+                                        },
+                                        {
+                                            "wd": "commonplace"
+                                        },
+                                        {
+                                            "wd": "dull"
+                                        },
+                                        {
+                                            "wd": "flat"
+                                        },
+                                        {
+                                            "wd": "insipid"
+                                        },
+                                        {
+                                            "wd": "irksome"
+                                        },
+                                        {
+                                            "wd": "stale"
+                                        },
+                                        {
+                                            "wd": "tedious"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "displeasing"
+                                        },
+                                        {
+                                            "wd": "dissatisfying"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "depressing"
+                                        },
+                                        {
+                                            "wd": "disheartening"
+                                        },
+                                        {
+                                            "wd": "dismal"
+                                        },
+                                        {
+                                            "wd": "dreary"
+                                        },
+                                        {
+                                            "wd": "gloomy"
+                                        },
+                                        {
+                                            "wd": "heartbreaking"
+                                        },
+                                        {
+                                            "wd": "heartrending"
+                                        },
+                                        {
+                                            "wd": "joyless"
+                                        },
+                                        {
+                                            "wd": "lachrymose"
+                                        },
+                                        {
+                                            "wd": "sad"
+                                        },
+                                        {
+                                            "wd": "unhappy"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "deplorable"
+                                        },
+                                        {
+                                            "wd": "doleful"
+                                        },
+                                        {
+                                            "wd": "dolorous"
+                                        },
+                                        {
+                                            "wd": "lamentable"
+                                        },
+                                        {
+                                            "wd": "lugubrious"
+                                        },
+                                        {
+                                            "wd": "mournful"
+                                        },
+                                        {
+                                            "wd": "regrettable"
+                                        },
+                                        {
+                                            "wd": "sorrowful"
+                                        },
+                                        {
+                                            "wd": "tragic",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "tragical"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "aggravating"
+                                        },
+                                        {
+                                            "wd": "annoying"
+                                        },
+                                        {
+                                            "wd": "exasperating"
+                                        },
+                                        {
+                                            "wd": "irritating"
+                                        },
+                                        {
+                                            "wd": "peeving"
+                                        },
+                                        {
+                                            "wd": "perturbing"
+                                        },
+                                        {
+                                            "wd": "vexing"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "forbidding"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "hostile"
+                                        },
+                                        {
+                                            "wd": "intimidating"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "angering"
+                                        },
+                                        {
+                                            "wd": "enraging"
+                                        },
+                                        {
+                                            "wd": "incensing"
+                                        },
+                                        {
+                                            "wd": "inflaming",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "also",
+                                                    "wva": "enflaming"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "infuriating"
+                                        },
+                                        {
+                                            "wd": "maddening"
+                                        },
+                                        {
+                                            "wd": "outraging"
+                                        },
+                                        {
+                                            "wd": "rankling"
+                                        },
+                                        {
+                                            "wd": "riling"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "distressing"
+                                        },
+                                        {
+                                            "wd": "disturbing"
+                                        },
+                                        {
+                                            "wd": "upsetting"
+                                        }
+                                    ]
+                                ],
+                                "ant_list": [
+                                    [
+                                        {
+                                            "wd": "disagreeable"
+                                        },
+                                        {
+                                            "wd": "pleasureless"
+                                        },
+                                        {
+                                            "wd": "unpalatable"
+                                        },
+                                        {
+                                            "wd": "unpleasant"
+                                        },
+                                        {
+                                            "wd": "unwelcome"
                                         }
                                     ]
                                 ]
@@ -808,7 +1750,1808 @@
             }
         ],
         "shortdef": [
-            "an electronic device with a screen and speakers that reproduces images and sound"
+            "granted special treatment or attention",
+            "having a pleasant smell",
+            "having an easygoing and pleasing manner especially in social situations"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet",
+            "uuid": "10cee566-91da-41ac-a895-43a19ff2a32c",
+            "src": "coll_thes",
+            "section": "alpha",
+            "target": {
+                "tuuid": "67fcb588-fda7-411c-951e-98fadc0bd5c9",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "sweet",
+                "sweets"
+            ],
+            "syns": [
+                [
+                    "confection",
+                    "sweetmeat"
+                ],
+                [
+                    "beloved",
+                    "darling",
+                    "dear",
+                    "flame",
+                    "hon",
+                    "honey",
+                    "love",
+                    "squeeze",
+                    "sweetheart",
+                    "sweetie",
+                    "sweetie pie",
+                    "truelove"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "1",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "a food having a high sugar content "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "remember to brush your teeth after eating {it}sweets{/it}"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "confection"
+                                        },
+                                        {
+                                            "wd": "sweetmeat"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "confectionary"
+                                        },
+                                        {
+                                            "wd": "confectionery"
+                                        },
+                                        {
+                                            "wd": "sweeties",
+                                            "wsls": [
+                                                "British"
+                                            ]
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "afters",
+                                            "wsls": [
+                                                "British"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "candy"
+                                        },
+                                        {
+                                            "wd": "dessert"
+                                        },
+                                        {
+                                            "wd": "entremets"
+                                        },
+                                        {
+                                            "wd": "pastry"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ],
+                    [
+                        [
+                            "sense",
+                            {
+                                "sn": "2",
+                                "dt": [
+                                    [
+                                        "text",
+                                        "a person with whom one is in love "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "my darling, my {it}sweet{/it}, won't you be mine?"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "beloved"
+                                        },
+                                        {
+                                            "wd": "darling"
+                                        },
+                                        {
+                                            "wd": "dear"
+                                        },
+                                        {
+                                            "wd": "flame"
+                                        },
+                                        {
+                                            "wd": "hon"
+                                        },
+                                        {
+                                            "wd": "honey"
+                                        },
+                                        {
+                                            "wd": "love"
+                                        },
+                                        {
+                                            "wd": "squeeze",
+                                            "wsls": [
+                                                "slang"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "sweetheart"
+                                        },
+                                        {
+                                            "wd": "sweetie"
+                                        },
+                                        {
+                                            "wd": "sweetie pie"
+                                        },
+                                        {
+                                            "wd": "truelove"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "beau"
+                                        },
+                                        {
+                                            "wd": "boy"
+                                        },
+                                        {
+                                            "wd": "boyfriend"
+                                        },
+                                        {
+                                            "wd": "fellow"
+                                        },
+                                        {
+                                            "wd": "man"
+                                        },
+                                        {
+                                            "wd": "swain"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "gal"
+                                        },
+                                        {
+                                            "wd": "girl"
+                                        },
+                                        {
+                                            "wd": "girlfriend"
+                                        },
+                                        {
+                                            "wd": "inamorata"
+                                        },
+                                        {
+                                            "wd": "ladylove"
+                                        },
+                                        {
+                                            "wd": "lass"
+                                        },
+                                        {
+                                            "wd": "mistress"
+                                        },
+                                        {
+                                            "wd": "tootsie"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "amour"
+                                        },
+                                        {
+                                            "wd": "lover"
+                                        },
+                                        {
+                                            "wd": "paramour"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "doll"
+                                        },
+                                        {
+                                            "wd": "duck(s)",
+                                            "wsls": [
+                                                "chiefly British"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "pet"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "date"
+                                        },
+                                        {
+                                            "wd": "escort"
+                                        },
+                                        {
+                                            "wd": "steady"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "admirer"
+                                        },
+                                        {
+                                            "wd": "gallant"
+                                        },
+                                        {
+                                            "wd": "suitor"
+                                        },
+                                        {
+                                            "wd": "wooer"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "groom"
+                                        },
+                                        {
+                                            "wd": "husband"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "bride"
+                                        },
+                                        {
+                                            "wd": "wife"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "significant other"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "fiancé"
+                                        },
+                                        {
+                                            "wd": "intended"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "crush"
+                                        },
+                                        {
+                                            "wd": "heartthrob"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "a food having a high sugar content",
+            "a person with whom one is in love"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet-talk",
+            "uuid": "9a6bb384-8137-4968-9e21-debd50c71fea",
+            "src": "coll_thes",
+            "section": "alpha",
+            "target": {
+                "tuuid": "6b6d3526-130f-4225-a1fd-cf83e04a9e9a",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "sweet-talk",
+                "sweet-talked",
+                "sweet-talking",
+                "sweet-talks"
+            ],
+            "syns": [
+                [
+                    "blandish",
+                    "blarney",
+                    "cajole",
+                    "coax",
+                    "palaver",
+                    "soft-soap",
+                    "wheedle"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet-talk"
+        },
+        "fl": "verb",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "to get (someone) to do something by gentle urging, special attention, or flattery "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "she can {it}sweet-talk{/it} her besotted boyfriend into just about anything"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "blandish"
+                                        },
+                                        {
+                                            "wd": "blarney"
+                                        },
+                                        {
+                                            "wd": "cajole"
+                                        },
+                                        {
+                                            "wd": "coax"
+                                        },
+                                        {
+                                            "wd": "palaver"
+                                        },
+                                        {
+                                            "wd": "soft-soap"
+                                        },
+                                        {
+                                            "wd": "wheedle"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "adulate"
+                                        },
+                                        {
+                                            "wd": "flatter"
+                                        },
+                                        {
+                                            "wd": "overpraise"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "butter up"
+                                        },
+                                        {
+                                            "wd": "charm"
+                                        },
+                                        {
+                                            "wd": "massage"
+                                        },
+                                        {
+                                            "wd": "woo"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "beg"
+                                        },
+                                        {
+                                            "wd": "beseech"
+                                        },
+                                        {
+                                            "wd": "importune"
+                                        },
+                                        {
+                                            "wd": "urge"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "beguile"
+                                        },
+                                        {
+                                            "wd": "cozen"
+                                        },
+                                        {
+                                            "wd": "finagle"
+                                        },
+                                        {
+                                            "wd": "juggle"
+                                        },
+                                        {
+                                            "wd": "wangle"
+                                        },
+                                        {
+                                            "wd": "wile"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "entice"
+                                        },
+                                        {
+                                            "wd": "lure"
+                                        },
+                                        {
+                                            "wd": "seduce"
+                                        },
+                                        {
+                                            "wd": "tempt"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "bug"
+                                        },
+                                        {
+                                            "wd": "harass"
+                                        },
+                                        {
+                                            "wd": "nag"
+                                        },
+                                        {
+                                            "wd": "pester"
+                                        },
+                                        {
+                                            "wd": "tease"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "browbeat"
+                                        },
+                                        {
+                                            "wd": "bulldoze"
+                                        },
+                                        {
+                                            "wd": "bully"
+                                        },
+                                        {
+                                            "wd": "cow"
+                                        },
+                                        {
+                                            "wd": "intimidate"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "coerce"
+                                        },
+                                        {
+                                            "wd": "compel"
+                                        },
+                                        {
+                                            "wd": "constrain"
+                                        },
+                                        {
+                                            "wd": "demand"
+                                        },
+                                        {
+                                            "wd": "force"
+                                        },
+                                        {
+                                            "wd": "make"
+                                        },
+                                        {
+                                            "wd": "oblige"
+                                        },
+                                        {
+                                            "wd": "require"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to get (someone) to do something by gentle urging, special attention, or flattery"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet talk",
+            "uuid": "a53860be-eeb0-473b-8283-eb46da3c3415",
+            "src": "coll_thes",
+            "section": "alpha",
+            "target": {
+                "tuuid": "7ea6fe36-3937-4db0-963c-b1b1fd43b4dc",
+                "tsrc": "collegiate"
+            },
+            "stems": [
+                "sweet talk",
+                "sweet talks"
+            ],
+            "syns": [
+                [
+                    "adulation",
+                    "blarney",
+                    "butter",
+                    "flannel",
+                    "flattery",
+                    "incense",
+                    "overpraise",
+                    "soft soap",
+                    "taffy"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet talk"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "excessive praise "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "enough of this {it}sweet talk{/it}—just give me your honest opinion of my performance"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "adulation"
+                                        },
+                                        {
+                                            "wd": "blarney"
+                                        },
+                                        {
+                                            "wd": "butter"
+                                        },
+                                        {
+                                            "wd": "flannel",
+                                            "wsls": [
+                                                "British"
+                                            ]
+                                        },
+                                        {
+                                            "wd": "flattery"
+                                        },
+                                        {
+                                            "wd": "incense"
+                                        },
+                                        {
+                                            "wd": "overpraise"
+                                        },
+                                        {
+                                            "wd": "soft soap"
+                                        },
+                                        {
+                                            "wd": "taffy"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "allurements"
+                                        },
+                                        {
+                                            "wd": "blandishments"
+                                        },
+                                        {
+                                            "wd": "endearments"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "caresses"
+                                        },
+                                        {
+                                            "wd": "compliments"
+                                        },
+                                        {
+                                            "wd": "congratulations"
+                                        },
+                                        {
+                                            "wd": "felicitations"
+                                        },
+                                        {
+                                            "wd": "greetings"
+                                        },
+                                        {
+                                            "wd": "regards"
+                                        },
+                                        {
+                                            "wd": "respects"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "adoration"
+                                        },
+                                        {
+                                            "wd": "idolatry"
+                                        },
+                                        {
+                                            "wd": "worship"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "fawning"
+                                        },
+                                        {
+                                            "wd": "sycophancy"
+                                        },
+                                        {
+                                            "wd": "toadying"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "cajolement"
+                                        },
+                                        {
+                                            "wd": "cajolery"
+                                        },
+                                        {
+                                            "wd": "ingratiation"
+                                        },
+                                        {
+                                            "wd": "smarm"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "acclaim"
+                                        },
+                                        {
+                                            "wd": "applause"
+                                        },
+                                        {
+                                            "wd": "commendation"
+                                        },
+                                        {
+                                            "wd": "praise"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "bad-mouthing"
+                                        },
+                                        {
+                                            "wd": "belittlement"
+                                        },
+                                        {
+                                            "wd": "depreciation"
+                                        },
+                                        {
+                                            "wd": "detraction"
+                                        },
+                                        {
+                                            "wd": "disparagement"
+                                        },
+                                        {
+                                            "wd": "put-down"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "excessive praise"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet on",
+            "uuid": "11ed6612-8c29-4c86-9451-203ecc4aa2b5",
+            "src": "CTenhance",
+            "section": "phrases",
+            "stems": [
+                "sweet on"
+            ],
+            "syns": [
+                [
+                    "besotted (by)",
+                    "crazy (about or over)",
+                    "dotty (over)",
+                    "enamored (of)",
+                    "enraptured (by)",
+                    "gaga (over)",
+                    "gone (on)",
+                    "infatuated (with)",
+                    "mad (about)",
+                    "nuts (about)"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet on"
+        },
+        "fl": "phrase",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "filled with an intense or excessive love for "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "That girl's {it}sweet on{/it} you and I think you should ask her out!"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "besotted (by)"
+                                        },
+                                        {
+                                            "wd": "crazy (about or over)"
+                                        },
+                                        {
+                                            "wd": "dotty (over)"
+                                        },
+                                        {
+                                            "wd": "enamored (of)"
+                                        },
+                                        {
+                                            "wd": "enraptured (by)"
+                                        },
+                                        {
+                                            "wd": "gaga (over)"
+                                        },
+                                        {
+                                            "wd": "gone (on)"
+                                        },
+                                        {
+                                            "wd": "infatuated (with)"
+                                        },
+                                        {
+                                            "wd": "mad (about)"
+                                        },
+                                        {
+                                            "wd": "nuts (about)"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "hung up (on)"
+                                        },
+                                        {
+                                            "wd": "obsessed"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "foolish"
+                                        },
+                                        {
+                                            "wd": "silly"
+                                        },
+                                        {
+                                            "wd": "wild"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "bewitched"
+                                        },
+                                        {
+                                            "wd": "captivated"
+                                        },
+                                        {
+                                            "wd": "charmed"
+                                        },
+                                        {
+                                            "wd": "enchanted"
+                                        },
+                                        {
+                                            "wd": "entranced"
+                                        },
+                                        {
+                                            "wd": "fascinated"
+                                        }
+                                    ]
+                                ],
+                                "phrase_list": [
+                                    [
+                                        {
+                                            "wd": "stuck on"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "cool"
+                                        },
+                                        {
+                                            "wd": "detached"
+                                        },
+                                        {
+                                            "wd": "unenchanted"
+                                        },
+                                        {
+                                            "wd": "unimpressed"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "disenchanted"
+                                        },
+                                        {
+                                            "wd": "disillusioned"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "heart-free"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "filled with an intense or excessive love for"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet tooth",
+            "uuid": "394d9b8d-4846-42f9-abdc-20e70f065387",
+            "src": "CTcompile",
+            "section": "alpha",
+            "stems": [
+                "sweet tooth"
+            ],
+            "syns": [
+                [
+                    "craving",
+                    "malnutrition",
+                    "starvation",
+                    "undernourishment",
+                    "famine",
+                    "fast",
+                    "hunger strike",
+                    "rapaciousness",
+                    "rapacity",
+                    "ravenousness",
+                    "voraciousness",
+                    "voracity",
+                    "gluttony",
+                    "gourmandism",
+                    "greed",
+                    "hoggishness",
+                    "appetite",
+                    "belly",
+                    "emptiness",
+                    "famishment",
+                    "hunger",
+                    "munchies",
+                    "stomach"
+                ]
+            ],
+            "ants": [
+                [
+                    "inappetence",
+                    "fill",
+                    "fullness",
+                    "glut",
+                    "repleteness",
+                    "repletion",
+                    "satiation",
+                    "satiety",
+                    "satisfaction",
+                    "surfeit"
+                ]
+            ],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet tooth"
+        },
+        "fl": "noun",
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "as in {it}craving{/it}"
+                                    ]
+                                ],
+                                "sim_list": [
+                                    [
+                                        {
+                                            "wd": "craving"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "malnutrition"
+                                        },
+                                        {
+                                            "wd": "starvation"
+                                        },
+                                        {
+                                            "wd": "undernourishment"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "famine"
+                                        },
+                                        {
+                                            "wd": "fast"
+                                        },
+                                        {
+                                            "wd": "hunger strike"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "rapaciousness"
+                                        },
+                                        {
+                                            "wd": "rapacity"
+                                        },
+                                        {
+                                            "wd": "ravenousness"
+                                        },
+                                        {
+                                            "wd": "voraciousness"
+                                        },
+                                        {
+                                            "wd": "voracity"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "gluttony"
+                                        },
+                                        {
+                                            "wd": "gourmandism"
+                                        },
+                                        {
+                                            "wd": "greed"
+                                        },
+                                        {
+                                            "wd": "hoggishness"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "appetite"
+                                        },
+                                        {
+                                            "wd": "belly"
+                                        },
+                                        {
+                                            "wd": "emptiness"
+                                        },
+                                        {
+                                            "wd": "famishment"
+                                        },
+                                        {
+                                            "wd": "hunger"
+                                        },
+                                        {
+                                            "wd": "munchies"
+                                        },
+                                        {
+                                            "wd": "stomach"
+                                        }
+                                    ]
+                                ],
+                                "opp_list": [
+                                    [
+                                        {
+                                            "wd": "inappetence"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "fill"
+                                        },
+                                        {
+                                            "wd": "fullness"
+                                        },
+                                        {
+                                            "wd": "glut"
+                                        },
+                                        {
+                                            "wd": "repleteness"
+                                        },
+                                        {
+                                            "wd": "repletion"
+                                        },
+                                        {
+                                            "wd": "satiation"
+                                        },
+                                        {
+                                            "wd": "satiety"
+                                        },
+                                        {
+                                            "wd": "satisfaction"
+                                        },
+                                        {
+                                            "wd": "surfeit"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "as in craving"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet-talked",
+            "uuid": "1b4fa1f4-8850-4ce0-bc18-95843a80f1df",
+            "src": "coll_thes",
+            "section": "alpha",
+            "stems": [
+                "sweet-talked"
+            ],
+            "syns": [
+                [
+                    "blandished",
+                    "blarneyed",
+                    "cajoled",
+                    "coaxed",
+                    "palavered",
+                    "soft-soaped",
+                    "wheedled"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet-talked"
+        },
+        "fl": "verb",
+        "sls": [
+            "past tense of {d_link|sweet-talk|sweet-talk}"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "to get (someone) to do something by gentle urging, special attention, or flattery "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "she can {it}sweet-talk{/it} her besotted boyfriend into just about anything"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "blandished"
+                                        },
+                                        {
+                                            "wd": "blarneyed"
+                                        },
+                                        {
+                                            "wd": "cajoled"
+                                        },
+                                        {
+                                            "wd": "coaxed"
+                                        },
+                                        {
+                                            "wd": "palavered"
+                                        },
+                                        {
+                                            "wd": "soft-soaped"
+                                        },
+                                        {
+                                            "wd": "wheedled"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "adulated"
+                                        },
+                                        {
+                                            "wd": "flattered"
+                                        },
+                                        {
+                                            "wd": "overpraised"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "buttered up"
+                                        },
+                                        {
+                                            "wd": "charmed"
+                                        },
+                                        {
+                                            "wd": "massaged"
+                                        },
+                                        {
+                                            "wd": "wooed"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "begged"
+                                        },
+                                        {
+                                            "wd": "beseeched",
+                                            "wvrs": [
+                                                {
+                                                    "wvl": "or",
+                                                    "wva": "besought"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "wd": "importuned"
+                                        },
+                                        {
+                                            "wd": "urged"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "beguiled"
+                                        },
+                                        {
+                                            "wd": "cozened"
+                                        },
+                                        {
+                                            "wd": "finagled"
+                                        },
+                                        {
+                                            "wd": "juggled"
+                                        },
+                                        {
+                                            "wd": "wangled"
+                                        },
+                                        {
+                                            "wd": "wiled"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "enticed"
+                                        },
+                                        {
+                                            "wd": "lured"
+                                        },
+                                        {
+                                            "wd": "seduced"
+                                        },
+                                        {
+                                            "wd": "tempted"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "bugged"
+                                        },
+                                        {
+                                            "wd": "harassed"
+                                        },
+                                        {
+                                            "wd": "nagged"
+                                        },
+                                        {
+                                            "wd": "pestered"
+                                        },
+                                        {
+                                            "wd": "teased"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "browbeat"
+                                        },
+                                        {
+                                            "wd": "bulldozed"
+                                        },
+                                        {
+                                            "wd": "bullied"
+                                        },
+                                        {
+                                            "wd": "cowed"
+                                        },
+                                        {
+                                            "wd": "intimidated"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "coerced"
+                                        },
+                                        {
+                                            "wd": "compelled"
+                                        },
+                                        {
+                                            "wd": "constrained"
+                                        },
+                                        {
+                                            "wd": "demanded"
+                                        },
+                                        {
+                                            "wd": "forced"
+                                        },
+                                        {
+                                            "wd": "made"
+                                        },
+                                        {
+                                            "wd": "obliged"
+                                        },
+                                        {
+                                            "wd": "required"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to get (someone) to do something by gentle urging, special attention, or flattery"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet-talks",
+            "uuid": "251642d0-df45-4e32-b076-e63445e04178",
+            "src": "coll_thes",
+            "section": "alpha",
+            "stems": [
+                "sweet-talks"
+            ],
+            "syns": [
+                [
+                    "blandishes",
+                    "blarneys",
+                    "cajoles",
+                    "coaxes",
+                    "palavers",
+                    "soft-soaps",
+                    "wheedles"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet-talks"
+        },
+        "fl": "verb",
+        "sls": [
+            "present tense third-person singular of {d_link|sweet-talk|sweet-talk}"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "to get (someone) to do something by gentle urging, special attention, or flattery "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "she can {it}sweet-talk{/it} her besotted boyfriend into just about anything"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "blandishes"
+                                        },
+                                        {
+                                            "wd": "blarneys"
+                                        },
+                                        {
+                                            "wd": "cajoles"
+                                        },
+                                        {
+                                            "wd": "coaxes"
+                                        },
+                                        {
+                                            "wd": "palavers"
+                                        },
+                                        {
+                                            "wd": "soft-soaps"
+                                        },
+                                        {
+                                            "wd": "wheedles"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "adulates"
+                                        },
+                                        {
+                                            "wd": "flatters"
+                                        },
+                                        {
+                                            "wd": "overpraises"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "butters up"
+                                        },
+                                        {
+                                            "wd": "charms"
+                                        },
+                                        {
+                                            "wd": "massages"
+                                        },
+                                        {
+                                            "wd": "woos"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "begs"
+                                        },
+                                        {
+                                            "wd": "beseeches"
+                                        },
+                                        {
+                                            "wd": "importunes"
+                                        },
+                                        {
+                                            "wd": "urges"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "beguiles"
+                                        },
+                                        {
+                                            "wd": "cozens"
+                                        },
+                                        {
+                                            "wd": "finagles"
+                                        },
+                                        {
+                                            "wd": "juggles"
+                                        },
+                                        {
+                                            "wd": "wangles"
+                                        },
+                                        {
+                                            "wd": "wiles"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "entices"
+                                        },
+                                        {
+                                            "wd": "lures"
+                                        },
+                                        {
+                                            "wd": "seduces"
+                                        },
+                                        {
+                                            "wd": "tempts"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "bugs"
+                                        },
+                                        {
+                                            "wd": "harasses"
+                                        },
+                                        {
+                                            "wd": "nags"
+                                        },
+                                        {
+                                            "wd": "pesters"
+                                        },
+                                        {
+                                            "wd": "teases"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "browbeats"
+                                        },
+                                        {
+                                            "wd": "bulldozes"
+                                        },
+                                        {
+                                            "wd": "bullies"
+                                        },
+                                        {
+                                            "wd": "cows"
+                                        },
+                                        {
+                                            "wd": "intimidates"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "coerces"
+                                        },
+                                        {
+                                            "wd": "compels"
+                                        },
+                                        {
+                                            "wd": "constrains"
+                                        },
+                                        {
+                                            "wd": "demands"
+                                        },
+                                        {
+                                            "wd": "forces"
+                                        },
+                                        {
+                                            "wd": "makes"
+                                        },
+                                        {
+                                            "wd": "obliges"
+                                        },
+                                        {
+                                            "wd": "requires"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to get (someone) to do something by gentle urging, special attention, or flattery"
+        ]
+    },
+    {
+        "meta": {
+            "id": "sweet-talking",
+            "uuid": "28588b86-81d8-4c33-af63-2782ec3d9b30",
+            "src": "coll_thes",
+            "section": "alpha",
+            "stems": [
+                "sweet-talking"
+            ],
+            "syns": [
+                [
+                    "blandishing",
+                    "blarneying",
+                    "cajoling",
+                    "coaxing",
+                    "palavering",
+                    "soft-soaping",
+                    "wheedling"
+                ]
+            ],
+            "ants": [],
+            "offensive": false
+        },
+        "hwi": {
+            "hw": "sweet-talking"
+        },
+        "fl": "verb",
+        "sls": [
+            "present participle of {d_link|sweet-talk|sweet-talk}"
+        ],
+        "def": [
+            {
+                "sseq": [
+                    [
+                        [
+                            "sense",
+                            {
+                                "dt": [
+                                    [
+                                        "text",
+                                        "to get (someone) to do something by gentle urging, special attention, or flattery "
+                                    ],
+                                    [
+                                        "vis",
+                                        [
+                                            {
+                                                "t": "she can {it}sweet-talk{/it} her besotted boyfriend into just about anything"
+                                            }
+                                        ]
+                                    ]
+                                ],
+                                "syn_list": [
+                                    [
+                                        {
+                                            "wd": "blandishing"
+                                        },
+                                        {
+                                            "wd": "blarneying"
+                                        },
+                                        {
+                                            "wd": "cajoling"
+                                        },
+                                        {
+                                            "wd": "coaxing"
+                                        },
+                                        {
+                                            "wd": "palavering"
+                                        },
+                                        {
+                                            "wd": "soft-soaping"
+                                        },
+                                        {
+                                            "wd": "wheedling"
+                                        }
+                                    ]
+                                ],
+                                "rel_list": [
+                                    [
+                                        {
+                                            "wd": "adulating"
+                                        },
+                                        {
+                                            "wd": "flattering"
+                                        },
+                                        {
+                                            "wd": "overpraising"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "buttering up"
+                                        },
+                                        {
+                                            "wd": "charming"
+                                        },
+                                        {
+                                            "wd": "massaging"
+                                        },
+                                        {
+                                            "wd": "wooing"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "begging"
+                                        },
+                                        {
+                                            "wd": "beseeching"
+                                        },
+                                        {
+                                            "wd": "importuning"
+                                        },
+                                        {
+                                            "wd": "urging"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "beguiling"
+                                        },
+                                        {
+                                            "wd": "cozening"
+                                        },
+                                        {
+                                            "wd": "finagling"
+                                        },
+                                        {
+                                            "wd": "juggling"
+                                        },
+                                        {
+                                            "wd": "wangling"
+                                        },
+                                        {
+                                            "wd": "wiling"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "enticing"
+                                        },
+                                        {
+                                            "wd": "luring"
+                                        },
+                                        {
+                                            "wd": "seducing"
+                                        },
+                                        {
+                                            "wd": "tempting"
+                                        }
+                                    ]
+                                ],
+                                "near_list": [
+                                    [
+                                        {
+                                            "wd": "bugging"
+                                        },
+                                        {
+                                            "wd": "harassing"
+                                        },
+                                        {
+                                            "wd": "nagging"
+                                        },
+                                        {
+                                            "wd": "pestering"
+                                        },
+                                        {
+                                            "wd": "teasing"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "browbeating"
+                                        },
+                                        {
+                                            "wd": "bulldozing"
+                                        },
+                                        {
+                                            "wd": "bullying"
+                                        },
+                                        {
+                                            "wd": "cowing"
+                                        },
+                                        {
+                                            "wd": "intimidating"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "wd": "coercing"
+                                        },
+                                        {
+                                            "wd": "compelling"
+                                        },
+                                        {
+                                            "wd": "constraining"
+                                        },
+                                        {
+                                            "wd": "demanding"
+                                        },
+                                        {
+                                            "wd": "forcing"
+                                        },
+                                        {
+                                            "wd": "making"
+                                        },
+                                        {
+                                            "wd": "obliging"
+                                        },
+                                        {
+                                            "wd": "requiring"
+                                        }
+                                    ]
+                                ]
+                            }
+                        ]
+                    ]
+                ]
+            }
+        ],
+        "shortdef": [
+            "to get (someone) to do something by gentle urging, special attention, or flattery"
         ]
     }
 ]

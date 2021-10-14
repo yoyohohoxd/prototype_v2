@@ -23,8 +23,8 @@ const findAnts = (data) => {
   });
 
   const randomWord = verifyWord(data);
-  if (randomWord >= 1) {
-    console.log("Picked word number: " + randomWord + " out of " + data[0].meta.ants[0].length + " possible.");
+  if (randomWord >= 0) {
+    console.log("Picked word number: " + (randomWord + 1) + " out of " + data[0].meta.ants[0].length + " possible.");
     console.log("The opposite is: " + data[0].meta.ants[0][randomWord]);
     return data[0].meta.ants[0][randomWord];
   }
@@ -35,7 +35,6 @@ function verifyWord(data) {
   if (data[0].meta.ants[0].length >= 1) {
     let numberOfWords = data[0].meta.ants[0].length;
     let randomWord = Math.floor(Math.random() * numberOfWords)
-    console.log(randomWord);
     return randomWord
   } else {
     console.log(data[0].meta.ants[0].length);
