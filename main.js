@@ -32,7 +32,7 @@ const findAnts = (data) => {
 }
 
 function verifyWord(data) {
-  if (data[0].meta.ants.length > 0) {
+  if (data[0].meta.ants.length > 1) {
     console.log(data[0].meta.ants.length)
     let numberOfWords = data[0].meta.ants[0].length;
     let randomWord = Math.floor(Math.random() * numberOfWords)
