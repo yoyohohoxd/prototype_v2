@@ -1,6 +1,8 @@
 import fetch from 'node-fetch';
 import { argv, exit } from 'process';
 import fs from 'fs';
+import express from 'express';
+import http from 'http';
 
 const apiData = {
   url: 'https://dictionaryapi.com/api/v3/references/thesaurus/json/',
@@ -10,23 +12,34 @@ const apiData = {
 
 const {url, word, key} = apiData;
 const apiUrl = `${url}${word}${key}`;
+const app = express();
+const port = 3000;
+let opposite = "";
+
+app.get('/', (req, res) => {
+  res.send(`${opposite}`);
+});
+
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`);
+});
 
 fetch(apiUrl)
   .then( (data) => data.json())
-  .then( (word) => findAnts(word))
+  .then( (word) => createFile(word))
 
-const findAnts = (data) => {
+const createFile = (data) => {
   let parsed = JSON.stringify(data, null, 4);
   fs.writeFile('output.json', parsed, function(err) {
     if (err) throw err;
-    console.log('\nSAVED');
+    console.log('\nSAVED\n');
   });
 
   const randomWord = verifyWord(data);
   if (randomWord >= 0) {
     console.log("Picked word number: " + (randomWord + 1) + " out of " + data[0].meta.ants[0].length + " possible.");
     console.log("The opposite is: " + data[0].meta.ants[0][randomWord]);
-    return data[0].meta.ants[0][randomWord];
+    opposite = data[0].meta.ants[0][randomWord];
   }
 }
 
